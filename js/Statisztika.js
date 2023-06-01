@@ -35,3 +35,4 @@ class Statisztika {
         return minHely
     }
 }
+export default Statisztika;
